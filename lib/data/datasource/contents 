@@ -1,0 +1,14 @@
+ Data --
+/ local db
+/ APIs
+
+
+models // data models
+
+repos implementation of data models
+
+domain entities - BLOCs
+use cases - Use cases
+
+presentation
+ -- blocs - state management (e.g BLOC)
